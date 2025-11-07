@@ -122,18 +122,18 @@ const Hero = () => {
             </span>
             <h1 className="mt-6 text-4xl font-extrabold leading-tight text-white drop-shadow md:text-6xl">
               Hi, I’m <span className="text-[#FF75A0]">Kira Sato</span>,
-              <br /> a UX/UI Designer who crafts
-              <br /> pixel-perfect experiences with heart.
+              <br /> a UX/UI Designer & Illustrator
+              <br /> crafting stories in pixels and ink.
             </h1>
             <p className="mt-5 max-w-xl text-lg text-white/80">
-              Minimalist interfaces infused with anime charm — soft gradients, glowing edges, and motion that feels alive.
+              Minimalist interfaces and luminous illustrations — soft gradients, glowing edges, and motion that feels alive.
             </p>
             <div className="mt-8 flex gap-4">
               <a
                 href="#work"
                 className="group inline-flex items-center justify-center rounded-xl bg-[#64CFF6] px-6 py-3 font-semibold text-[#0E0E52] shadow-[0_0_20px_rgba(100,207,246,0.5)] transition hover:-translate-y-0.5 hover:shadow-[0_0_30px_rgba(100,207,246,0.75)]"
               >
-                View My Work
+                View Illustration
               </a>
               <a
                 href="#contact"
