@@ -2,6 +2,7 @@ import React from 'react';
 import Hero from './components/Hero';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
+import IllustrationGallery from './components/IllustrationGallery';
 import Contact from './components/Contact';
 
 const App = () => {
@@ -17,6 +18,7 @@ const App = () => {
           <nav className="hidden gap-6 md:flex">
             <a href="#about" className="text-white/80 hover:text-white">About</a>
             <a href="#work" className="text-white/80 hover:text-white">Work</a>
+            <a href="#illustration" className="text-white/80 hover:text-white">Illustration</a>
             <a href="#contact" className="text-white/80 hover:text-white">Contact</a>
           </nav>
         </div>
@@ -26,6 +28,7 @@ const App = () => {
         <Hero />
         <About />
         <Portfolio />
+        <IllustrationGallery />
         <Contact />
       </main>
 
